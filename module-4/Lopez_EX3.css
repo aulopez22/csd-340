@@ -41,11 +41,11 @@ h3 {
     font-weight: 500;
 }
 
-#favorite-url, #back-to-top {
+#landing-page {
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     text-decoration: none;
 }
 
-#favorite-url:hover, #back-to-top:hover {
+#hover {
     text-decoration: underline;
 }
