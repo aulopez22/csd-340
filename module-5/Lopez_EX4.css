@@ -51,7 +51,6 @@ h1, h3, figcaption {
 
 .gallery-item {
     float: left;
-    display: table-column;
     border: 1px solid black;
     border-radius: 15px;
     float: left;
