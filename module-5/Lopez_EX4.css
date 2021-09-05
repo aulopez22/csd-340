@@ -5,11 +5,9 @@ html {
 #image-gallery {
     margin-top: 10%;
     display: table;
-    width: 500px;
-    height: 500px;
-    padding-top:20px;
-    padding-left:15px;
-    padding-right:15px;
+    float: left;
+    width: 25%;
+    padding: 10px;
     
 }
 .image-gallery.gallery-item {
