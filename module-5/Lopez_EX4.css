@@ -1,5 +1,7 @@
+
 html {
     background-color: rgba(247, 112, 24, .2);
+   
 }
 
 #image-gallery {
@@ -8,6 +10,7 @@ html {
     float: left;
     width: 25%;
     padding: 10px;
+    box-sizing: border-box;
     
 }
 .image-gallery.gallery-item {
