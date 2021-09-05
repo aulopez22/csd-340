@@ -1,20 +1,11 @@
-
 html {
     background-color: rgba(247, 112, 24, .2);
-   
 }
 
 #image-gallery {
     margin-top: 10%;
-    display: table;
-    float: left;
-    width: 400px;
-    padding: 10px;
-    box-sizing: border-box;
-    
-}
-.image-gallery.gallery-item {
-    display:table-column;
+    display: grid;
+    grid-template: 400px / auto auto auto;
 }
 
 #page-title {
@@ -50,10 +41,7 @@ h1, h3, figcaption {
 }
 
 .gallery-item {
-    float: left;
-    border: 1px solid black;
+    border: 1px solid rgba(185, 63, 8, 1);
     border-radius: 15px;
-    float: left;
-    width: 400px;
-    padding: 10px;
+    padding: 5px;
 }
