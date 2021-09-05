@@ -5,12 +5,15 @@ html {
 #image-gallery {
     margin-top: 10%;
     display: table;
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     padding-top:20px;
     padding-left:15px;
     padding-right:15px;
     
+}
+.image-gallery.gallery-item{
+    display:table-row;
 }
 
 #page-title {
@@ -48,8 +51,8 @@ h1, h3, figcaption {
 .gallery-item {
     float: left;
     display: table-row;
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     border: 1px solid black;
     border-radius: 15px;
     padding: 5px;
