@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #3c275a;
+    background-color: #AFD9DB;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -16,8 +16,8 @@ h1 {
 
 #navbar {
     overflow: hidden;
-    background-color: #4F3674;
-    border-bottom: 15px solid #D6A800;
+    background-color: #F53758;
+    border-bottom: 15px solid #F55A7A;
 }
 
 #navbar a {
@@ -30,7 +30,7 @@ h1 {
 }
 
 #navbar a:hover {
-    background-color: #D6A800;
+    background-color: #FFAFBC;
     color: #4F3674;
 }
 
@@ -63,7 +63,7 @@ h1 {
 }
 
 footer {
-    background-color: #4F3674;
+    background-color: #F53758;
     position: absolute;
     bottom: 0;
     width: 100%;
